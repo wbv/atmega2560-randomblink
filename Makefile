@@ -23,7 +23,7 @@ main.hex: main.elf
 
 
 clean:
-	rm *.o *.hex *.elf
+	rm *.o *.hex *.elf *.d
 
 
 install: all
